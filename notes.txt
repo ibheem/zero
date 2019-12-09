@@ -1,6 +1,4 @@
 Follow these rules to setup the project:
 # install Nodejs
-
 # install Angular
-
 # install Mysql
